@@ -1,0 +1,9 @@
+server:
+  port: 7777
+spring:
+  jdbc:
+    datasource:
+      driverClassName: com.mysql.jdbc.Driver
+      url: jdbc:mysql:///business
+      username: business
+      password: business
